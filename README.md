@@ -1,66 +1,65 @@
+# Implementation of "Efficient Estimation of Word Representations in Vector Space" from a different perspective
 
-# Implementation of "Efficient Estimation of Word Representations in Vector Space"
-
-This project implements the Continuous Bag-of-Words (CBOW) and Continuous Skip-gram models described in the paper "Efficient Estimation of Word Representations in Vector Space" by Tomas Mikolov et al.
+This project is our implementation of the Continuous Bag-of-Words (CBOW) and Continuous Skip-gram models described in the paper "Efficient Estimation of Word Representations in Vector Space" by Tomas Mikolov et al.
 
 ## Week 1-2: Understanding and Setting Up
 
 - **Reading and Understanding the Paper**
-  - Thoroughly read the paper.
-  - Note key mathematical formulations and algorithms.
+  - The team will thoroughly read the paper.
+  - We will note key mathematical formulations and algorithms.
 
 - **Environment Setup**
-  - Set up development environment with Python, NumPy, Pandas, TensorFlow/PyTorch.
-  - Install Git and set up a GitHub account.
+  - The team will set up our development environment with Python, NumPy, Pandas, TensorFlow/PyTorch.
+  - We will install Git and set up a GitHub account.
 
 - **Initial Implementation**
-  - Implement CBOW model.
-  - Write script for text preprocessing (tokenization, vocabulary, training examples).
+  - The team will implement the CBOW model.
+  - We will write a script for text preprocessing (tokenization, vocabulary, training examples).
 
 ## Week 3-4: Implementing CBOW and Skip-gram Models
 
 - **Implement CBOW Model**
-  - Implement forward pass of CBOW.
-  - Implement backward pass and update rules using SGD.
-  - Test with a small dataset.
+  - The team will implement the forward pass of CBOW.
+  - We will implement the backward pass and update rules using SGD.
+  - We will test with a small dataset.
 
 - **Implement Skip-gram Model**
-  - Implement forward pass of Skip-gram.
-  - Implement backward pass and update rules using SGD.
-  - Test with a small dataset.
+  - The team will implement the forward pass of Skip-gram.
+  - We will implement the backward pass and update rules using SGD.
+  - We will test with a small dataset.
 
 - **Evaluation and Validation**
-  - Evaluate models using word similarity tasks.
-  - Compare results to ensure meaningful word representations.
+  - The team will evaluate the models using word similarity tasks.
+  - We will compare results to ensure meaningful word representations.
 
 ## Week 5-6: Optimization and Experimentation
 
 - **Optimizing Hyperparameters**
-  - Experiment with learning rate, batch size, epochs, vector dimensions.
-  - Train on a larger dataset.
+  - The team will experiment with learning rate, batch size, epochs, vector dimensions.
+  - We will train on a larger dataset.
 
 - **Implementing Improvements**
-  - Implement hierarchical softmax or negative sampling.
-  - Fine-tune models for better performance.
+  - The team will implement hierarchical softmax or negative sampling.
+  - We will fine-tune the models for better performance.
 
 - **Preparing for Contribution**
-  - Document code thoroughly.
-  - Write tests for code correctness.
+  - The team will document the code thoroughly.
+  - We will write tests for code correctness.
 
 ## Week 7-8: Finalization and Contribution
 
 - **Final Testing and Documentation**
-  - Conduct final tests.
-  - Prepare comprehensive documentation.
+  - The team will conduct final tests.
+  - We will prepare comprehensive documentation.
 
 - **Creating a Pull Request**
-  - Fork the original repository.
-  - Push changes to forked repository.
-  - Create a detailed pull request.
+  - The team will fork the original repository.
+  - We will push changes to the forked repository.
+  - We will create a detailed pull request.
 
 - **Engaging with the Community**
-  - Respond to feedback on PR.
-  - Participate in repository discussions.
+  - The team will respond to feedback on the PR.
+  - We will participate in repository discussions.
 
 ## Tools and Resources
 

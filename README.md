@@ -2,6 +2,7 @@
 
 This project is our implementation of the Continuous Bag-of-Words (CBOW) and Continuous Skip-gram models described in the paper "Efficient Estimation of Word Representations in Vector Space" by Tomas Mikolov et al.
 
+
 ## Week 1-2: Understanding and Setting Up
 
 - **Reading and Understanding the Paper**
